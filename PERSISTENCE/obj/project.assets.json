@@ -5701,11 +5701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+      "projectUniqueName": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
       "projectName": "PERSISTENCE",
-      "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+      "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
       "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\obj\\",
+      "outputPath": "D:\\Api-ggtt\\PERSISTENCE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5725,8 +5725,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
-              "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj"
+            "D:\\Api-ggtt\\DATA\\DATA.csproj": {
+              "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj"
             }
           }
         }

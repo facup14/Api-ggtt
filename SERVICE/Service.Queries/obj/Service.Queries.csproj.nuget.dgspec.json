@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {}
+    "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+    "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
         "projectName": "Common.Collection",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
+    "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
         "projectName": "Common.Mapping",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
+    "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
         "projectName": "Common.Pagging",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -145,8 +145,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
+              "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
+    "D:\\Api-ggtt\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -250,14 +250,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+    "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "projectName": "PERSISTENCE",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\PERSISTENCE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -277,8 +277,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj"
+              "D:\\Api-ggtt\\DATA\\DATA.csproj": {
+                "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj"
               }
             }
           }
@@ -323,14 +323,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
+    "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
         "projectName": "Service.EventHandlers",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -350,8 +350,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+              "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+                "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
               }
             }
           }
@@ -390,14 +390,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {
+    "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
         "projectName": "Service.Queries",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
+        "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -417,20 +417,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
+              "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
               },
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj"
+              "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
+                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj"
               },
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj"
+              "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
+                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj"
               },
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+              "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+                "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
               },
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj"
+              "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
+                "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj"
               }
             }
           }

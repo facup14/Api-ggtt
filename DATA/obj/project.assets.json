@@ -816,11 +816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+      "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
       "projectName": "DATA",
-      "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+      "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
       "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
+      "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

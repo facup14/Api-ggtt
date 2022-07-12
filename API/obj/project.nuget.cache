@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P3Y+3uYbRZDzzsXW8U0B/yTAoWieL0G+NBWPESEIFG6Cej4gM9GTE8r41t+dB/Q0fu7UeHJX7iRid/5j9yoaZg==",
+  "dgSpecHash": "5QCIQl7+9M6B5+14dkm/3tW1eQPEfZ6gNBAFm926xoVnJMhKaFY7Ptsy3CC7D9FoC+2APOjrlhXYH6p2oJtr+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\INFT\\Desktop\\APIggtt\\API\\API.csproj",
+  "projectFilePath": "D:\\Api-ggtt\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INFT\\.nuget\\packages\\efcore3.sqlserver2008query\\1.0.0\\efcore3.sqlserver2008query.1.0.0.nupkg.sha512",
     "C:\\Users\\INFT\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

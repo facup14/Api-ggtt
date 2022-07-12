@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wm0BV70d/v/iCw7Y30rGS//ePqbGVx2mO1364oQyRn1sgy9f1YjvCuxBWIRo+OYhl5vAA5DQNUqpM+I3wfkhBA==",
+  "dgSpecHash": "6aFwcuiDg5JQ5pfcEIpaR5OeV4Tki+0/GDdoY0xnoARd4J6K4jSUK5DI85kbjcZR3ITdD61j+SqyAhDeBkbtvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
+  "projectFilePath": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INFT\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\INFT\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

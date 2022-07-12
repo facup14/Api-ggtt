@@ -5701,11 +5701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+      "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
       "projectName": "Service.EventHandlers",
-      "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+      "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
       "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\obj\\",
+      "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5725,8 +5725,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-              "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+            "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+              "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
             }
           }
         }
