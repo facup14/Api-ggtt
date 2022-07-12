@@ -8,15 +8,15 @@ namespace DATA.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long idCentrodeCosto { get; set; }
+        public int idCentrodeCosto { get; set; }
         [MaxLength(50)]
         public string CentroDeCosto { get; set; }
         public string Obs { get; set; }
         public int Tipo { get; set; }
         [ForeignKey("idEstadoUnidad")]
-        public long? idEstadoUnidad { get; set; }
+        public int idEstadoUnidad { get; set; }
         public virtual EstadosUnidades IdEstadoUnidad { get; set; }
-        public int? CodigoBas { get; set; }
+        public int CodigoBas { get; set; }
 
     }
 }

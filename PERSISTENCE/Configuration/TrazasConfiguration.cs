@@ -11,19 +11,19 @@ namespace PERSISTENCE.Configuration
         {
             entity.HasKey(e => e.IdTraza);
 
-                entity.Property(e => e.DistanciaKM).HasColumnName("DistanciaKM");
+                entity.Property(e => e.DistanciaKm).HasColumnName("DistanciaKM");
 
                 entity.Property(e => e.Obs).IsUnicode(false);
 
-                entity.HasOne(d => d.idLocalidadDesde)
+                entity.HasOne(d => d.IdLocalidadDesde)
                     .WithMany(p=>p.LocalidadDesde)
-                    .HasForeignKey(d => d.IdLocalidadDesde)
+                    .HasForeignKey(d => d.idLocalidadDesde)
                     .HasConstraintName("FK_TrazaDesde_Localidades")
                     .OnDelete(DeleteBehavior.ClientCascade);
 
-            entity.HasOne(d => d.idLocalidadHasta)
+            entity.HasOne(d => d.IdLocalidadHasta)
                     .WithMany(p=>p.LocalidadHasta)
-                    .HasForeignKey(d => d.IdLocalidadHasta)
+                    .HasForeignKey(d => d.idLocalidadHasta)
                     .HasConstraintName("FK_TrazaHasta_Localidades")
                     .OnDelete(DeleteBehavior.ClientCascade);
         }

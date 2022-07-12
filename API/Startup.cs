@@ -33,15 +33,10 @@ namespace API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
             });
             services.AddTransient<IUnidadesQueryService, UnidadesQueryService>();
-            services.AddTransient<IAgrupacionesSindicalesQueryService, AgrupacionesSindicalesQueryService>();
-            services.AddTransient<ICentrodeCostoQueryService, CentrodeCostoQueryService>();
-            services.AddTransient<IConveniosQueryService, ConveniosQueryService>();
-            services.AddTransient<IEmpresasQueryService, EmpresasQueryService>();
-            services.AddTransient<IEspecialidadesQueryService, EspecialidadesQueryService>();
-            services.AddTransient<IEstadosUnidadesQueryService, EstadosUnidadesQueryService>();
             services.AddMediatR(Assembly.Load("Service.EventHandlers"));
+            
 
-           
+
 
             services.AddRouting(r => r.SuppressCheckForUnhandledSecurityMetadata = true);
 

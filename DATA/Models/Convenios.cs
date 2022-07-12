@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DATA.Models
 {
-    public class Convenios : BaseEntity
+    public class Convenios
     {
         public Convenios()
         {
@@ -12,10 +12,10 @@ namespace DATA.Models
         }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int IdConvenio { get; set; }//Entidad base
+        public int IdConvenio { get; set; }
         [MaxLength(100)]
         public string Descripcion { get; set; }
-        public string Obs { get; set; } //Entidad base
+        public string Obs { get; set; }
         public virtual ICollection<Choferes> Choferes { get; set; }
     }
 }

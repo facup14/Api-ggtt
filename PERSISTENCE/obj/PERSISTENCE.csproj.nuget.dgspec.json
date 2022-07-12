@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {}
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {}
   },
   "projects": {
-    "D:\\Api-ggtt\\DATA\\DATA.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "projectName": "PERSISTENCE",
-        "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\PERSISTENCE\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Api-ggtt\\DATA\\DATA.csproj": {
-                "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj"
               }
             }
           }
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

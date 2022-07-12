@@ -37,16 +37,3 @@ C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\ne
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.CopyComplete
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.dll
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.pdb
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.deps.json
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.dll
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Pagging.pdb
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Collection.dll
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\bin\Debug\netcoreapp3.1\Common.Collection.pdb
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.AssemblyReference.cache
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.GeneratedMSBuildEditorConfig.editorconfig
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.AssemblyInfoInputs.cache
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.AssemblyInfo.cs
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.CoreCompileInputs.cache
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.csproj.CopyComplete
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.dll
-D:\Api-ggtt\COMMON\Service.Pagging\Common.Pagging\obj\Debug\netcoreapp3.1\Common.Pagging.pdb

@@ -25,7 +25,7 @@ namespace Service.EventHandlers
                 Motor = notification.Motor,
                 Chasis = notification.Chasis,
                 Titular = notification.Titular,
-                idEstadoUnidad = (int)notification.idEstadoUnidad,
+                idEstadoUnidad = notification.idEstadoUnidad,
                 idModelo= notification.idModelo,
                 idSituacionUnidad = notification.idSituacionUnidad
             });

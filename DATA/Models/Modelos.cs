@@ -12,15 +12,15 @@ namespace DATA.Models
         }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long IdModelo { get; set; }
+        public int IdModelo { get; set; }
         [MaxLength(50)]
         public string Modelo { get; set; }
         public string Obs { get; set; }
         [ForeignKey("idMarca")]
-        public long idMarca { get; set; }
+        public int idMarca { get; set; }
         public virtual Marcas IdMarca { get; set; }
         [ForeignKey("IdGrupo")]
-        public long IdGrupo { get; set; }
+        public int IdGrupo { get; set; }
         public virtual Grupos idGrupo { get; set; }
         public virtual ICollection<Unidades> Unidades { get; set; }
     }

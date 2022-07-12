@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {}
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {}
   },
   "projects": {
-    "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
         "projectName": "Common.Collection",
-        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,24 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
         "projectName": "Common.Mapping",
-        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,24 +114,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
         "projectName": "Common.Pagging",
-        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -145,8 +145,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
-                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
               }
             }
           }
@@ -181,24 +181,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\DATA\\DATA.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -246,24 +246,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "projectName": "PERSISTENCE",
-        "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\PERSISTENCE\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -277,8 +277,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Api-ggtt\\DATA\\DATA.csproj": {
-                "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj"
               }
             }
           }
@@ -319,24 +319,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
         "projectName": "Service.EventHandlers",
-        "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -350,8 +350,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-                "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
               }
             }
           }
@@ -386,24 +386,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {
+    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
+        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
         "projectName": "Service.Queries",
-        "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
-        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
-        "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.Queries\\obj\\",
+        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\Service.Queries.csproj",
+        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -417,20 +417,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
-                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
               },
-              "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
-                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj"
               },
-              "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
-                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj"
               },
-              "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-                "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
               },
-              "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
-                "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj"
+              "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
+                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj"
               }
             }
           }
@@ -459,7 +459,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,10 +15,10 @@ namespace Service.Queries
 /// </summary>
     public interface IUnidadesQueryService
     {
-        Task<DataCollection<UnidadesDTO>> GetAllAsync(int page, int take, IEnumerable<long> unidades = null);
-        Task<UnidadesDTO> GetAsync(long id);
-        Task<UpdateUnidadDTO> PutAsync(UpdateUnidadDTO unidad, long it);
-        Task<UnidadesDTO> DeleteAsync(long id);
+        Task<DataCollection<UnidadesDTO>> GetAllAsync(int page, int take, IEnumerable<int> unidades = null);
+        Task<UnidadesDTO> GetAsync(int id);
+        Task<UpdateUnidadDTO> PutAsync(UpdateUnidadDTO unidad, int it);
+        Task<UnidadesDTO> DeleteAsync(int id);
     }
     public class UnidadesQueryService : IUnidadesQueryService
     {
@@ -29,7 +29,7 @@ namespace Service.Queries
             _context = context;
         }
 
-        public async Task<DataCollection<UnidadesDTO>> GetAllAsync(int page, int take, IEnumerable<long> unidades = null)
+        public async Task<DataCollection<UnidadesDTO>> GetAllAsync(int page, int take, IEnumerable<int> unidades = null)
         {
             try
             {
@@ -46,7 +46,7 @@ namespace Service.Queries
             
         }
 
-        public async Task<UnidadesDTO> GetAsync(long id)
+        public async Task<UnidadesDTO> GetAsync(int id)
         {
             try
             {
@@ -61,10 +61,9 @@ namespace Service.Queries
             }
             
         }
-        public async Task<UpdateUnidadDTO> PutAsync(UpdateUnidadDTO unidad, long id)
+        public async Task<UpdateUnidadDTO> PutAsync(UpdateUnidadDTO unidad, int id)
         {
-            if (_context.Unidades.SingleAsync(x => x.IdUnidad == id).Result == null)
-            {
+            if(_context.Unidades.SingleAsync(x => x.IdUnidad == id) == null) {
                 throw new Exception("La unidad con id" + " " + id + " " + ",no existe");
             }
             var unidade = await _context.Unidades.SingleAsync(x => x.IdUnidad == id);
@@ -81,7 +80,7 @@ namespace Service.Queries
                 
             return unidad.MapTo<UpdateUnidadDTO>();
         }
-        public async Task<UnidadesDTO> DeleteAsync(long id)
+        public async Task<UnidadesDTO> DeleteAsync(int id)
         {
             try
             {

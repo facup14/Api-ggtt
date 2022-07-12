@@ -7,7 +7,7 @@ namespace DATA.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long IdVariableUnidad { get; set; }
+        public int IdVariableUnidad { get; set; }
         [MaxLength(50)]
         public string Nombre { get; set; }
         

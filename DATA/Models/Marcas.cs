@@ -12,7 +12,7 @@ namespace DATA.Models
         }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public long IdMarca { get; set; }
+        public int IdMarca { get; set; }
         [MaxLength(50)]
         public string Marca { get; set; }
         public string Obs { get; set; }
