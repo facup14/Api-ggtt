@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {}
+    "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
+    "D:\\Api-ggtt\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+    "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "projectName": "PERSISTENCE",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj",
+        "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\PERSISTENCE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,8 +96,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj"
+              "D:\\Api-ggtt\\DATA\\DATA.csproj": {
+                "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
+    "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
         "projectName": "Service.EventHandlers",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+        "projectPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -169,8 +169,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\PERSISTENCE\\PERSISTENCE.csproj"
+              "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj": {
+                "projectPath": "D:\\Api-ggtt\\PERSISTENCE\\PERSISTENCE.csproj"
               }
             }
           }

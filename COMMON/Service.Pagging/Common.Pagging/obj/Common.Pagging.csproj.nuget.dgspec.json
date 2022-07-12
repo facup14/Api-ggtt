@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {}
+    "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+    "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
         "projectName": "Common.Collection",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
+        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
+    "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
         "projectName": "Common.Pagging",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
+        "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\Common.Pagging.csproj",
         "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
+        "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Pagging\\Common.Pagging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
+              "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj": {
+                "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Collection\\Common.Collection\\Common.Collection.csproj"
               }
             }
           }

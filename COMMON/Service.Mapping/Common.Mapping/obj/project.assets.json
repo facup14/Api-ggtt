@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+      "projectUniqueName": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
       "projectName": "Common.Mapping",
-      "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
+      "projectPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\Common.Mapping.csproj",
       "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
+      "outputPath": "D:\\Api-ggtt\\COMMON\\Service.Mapping\\Common.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

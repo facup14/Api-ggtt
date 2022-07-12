@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9y/HUO35XwIXkesc3mTmR/2zJJDRkcZkLU/4yoW95sevXZY+RJIj+/jIr3QX3VTE4uvS4CtPaEJo0hPtv01T1g==",
+  "dgSpecHash": "cfPCuFhZPB5EW8JqxE8M7ku/xbQWwVmkGDCHFwA00nnSE1CdPDxOCBG70CKdo7K8/saAUbbY/F3pi5M5YgldcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\INFT\\Desktop\\APIggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
+  "projectFilePath": "D:\\Api-ggtt\\SERVICE\\Service.EventHandlers\\Service.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\INFT\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\INFT\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
