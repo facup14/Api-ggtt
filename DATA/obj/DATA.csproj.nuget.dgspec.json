@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {}
+    "D:\\Api-ggtt\\DATA\\DATA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj": {
+    "D:\\Api-ggtt\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
+        "projectUniqueName": "D:\\Api-ggtt\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\DATA.csproj",
-        "packagesPath": "C:\\Users\\INFT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\INFT\\Desktop\\APIggtt\\DATA\\obj\\",
+        "projectPath": "D:\\Api-ggtt\\DATA\\DATA.csproj",
+        "packagesPath": "C:\\Users\\INFT4\\.nuget\\packages\\",
+        "outputPath": "D:\\Api-ggtt\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\INFT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\INFT4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
