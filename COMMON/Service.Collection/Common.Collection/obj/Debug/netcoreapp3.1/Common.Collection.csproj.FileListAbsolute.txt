@@ -28,3 +28,13 @@ C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Collection\Common.Collection\obj\De
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.csproj.CoreCompileInputs.cache
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.dll
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.pdb
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.deps.json
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.dll
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\bin\Debug\netcoreapp3.1\Common.Collection.pdb
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.csproj.AssemblyReference.cache
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.AssemblyInfoInputs.cache
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.AssemblyInfo.cs
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.csproj.CoreCompileInputs.cache
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.dll
+D:\Api-ggtt\COMMON\Service.Collection\Common.Collection\obj\Debug\netcoreapp3.1\Common.Collection.pdb

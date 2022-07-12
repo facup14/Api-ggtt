@@ -7,7 +7,7 @@ namespace DATA.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int IdUnidadDeMedida { get; set; }
+        public long IdUnidadDeMedida { get; set; }
         [MaxLength(50)]
         public string UnidadDeMedida { get; set; }
         

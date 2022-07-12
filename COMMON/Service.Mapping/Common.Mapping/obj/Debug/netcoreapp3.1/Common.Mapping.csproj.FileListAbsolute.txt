@@ -28,3 +28,13 @@ C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\ne
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.csproj.CoreCompileInputs.cache
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.dll
 C:\Users\INFT\Desktop\APIggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.pdb
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.deps.json
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.dll
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\bin\Debug\netcoreapp3.1\Common.Mapping.pdb
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.csproj.AssemblyReference.cache
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.AssemblyInfoInputs.cache
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.AssemblyInfo.cs
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.csproj.CoreCompileInputs.cache
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.dll
+D:\Api-ggtt\COMMON\Service.Mapping\Common.Mapping\obj\Debug\netcoreapp3.1\Common.Mapping.pdb

@@ -32,10 +32,10 @@ namespace API.Controllers
         {
             try
             {
-                IEnumerable<int> unidades = null;
+                IEnumerable<long> unidades = null;
                 if (!string.IsNullOrEmpty(ids))
                 {
-                    unidades = ids.Split(',').Select(x => Convert.ToInt32(x));
+                    unidades = ids.Split(',').Select(x => Convert.ToInt64(x));
                 }
 
                 return await _unidadesQueryService.GetAllAsync(page, take, unidades); 
